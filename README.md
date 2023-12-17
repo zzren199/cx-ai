@@ -1,8 +1,39 @@
-# light-ai
+# cx-ai
 
 ### 介绍
 畅享Ai是由Springboot集成openAi SDK开发的一套智能AI知识库，支持GPT对话，AI绘图Midjourney、Stable
-Diffusion、openai，支持商用。
+Diffusion、openai，支持商用。欢迎进群讨论：QQ群：901402477。
+
+[![pc-draw.md.png](https://z4a.net/images/2023/12/18/pc-draw.md.png)](https://z4a.net/image/jWMGfE)
+
+[![pc-roles.md.png](https://z4a.net/images/2023/12/18/pc-roles.md.png)](https://z4a.net/image/jWMFbr)
+
+[![pc-skills.md.png](https://z4a.net/images/2023/12/18/pc-skills.md.png)](https://z4a.net/image/jWMDmi)
+
+[![pc-grally.md.png](https://z4a.net/images/2023/12/18/pc-grally.md.png)](https://z4a.net/image/jWM5LA)
+
+
+[![h5-first-page.png](https://z4a.net/images/2023/12/18/h5-first-page.png)](https://z4a.net/image/jWMRWJ)
+
+[![h5-draw.png](https://z4a.net/images/2023/12/18/h5-draw.png)](https://z4a.net/image/jWMZpp)
+
+[![h5-skills.png](https://z4a.net/images/2023/12/18/h5-skills.png)](https://z4a.net/image/jWM3tf)
+
+
+[![manager.md.png](https://z4a.net/images/2023/12/18/manager.md.png)](https://z4a.net/image/jWMvgU)
+
+
+
+### 演示中心
+
+H5（移动端、pc端）：http://cx.wiyitools.com
+
+小程序：
+![miniProgram.png](https://qiniu.wiyitools.com/image/20231011/c2a9d04a-d34f-479a-8948-4398709989f1.jpg)
+
+管理后台演示：http://cx-admin.wiyitools.com/
+<br/>账号/密码：player/111111
+
 
 ### 特点
 ✅ ChatGpt聊天对话，支持中断停止响应，支持GPT3.5、4.0、3.5-16K等模型  
@@ -47,6 +78,7 @@ Diffusion、openai，支持商用。
    Stable Diffusion  
    Discord、Midjourney  
 
+
 #### 前端
    vue3  
    element-ui  
@@ -54,14 +86,16 @@ Diffusion、openai，支持商用。
    pace-js  
    echarts
 
-### 项目截图
+
+### 教程
+
+安装教程：https://e56lzhenrc.feishu.cn/docx/B63pditXNosIw0xQAD8ct7mNnzb?from=from_copylink
+
+使用教程：https://e56lzhenrc.feishu.cn/docx/XYlwd6eeworlV9xqfWScb06MnIh?from=from_copylink
 
 
 
 ### 讨论群/联系方式
 
- * 畅享Ai交流群：
- 
- ![qrCode.png](https://qiniu.wiyitools.com/image/20231021/584d29a9-ab10-48b1-a124-a247d9907318.png)
-# cx-ai
-# cx-ai
+ * QQ群：901402477
+
