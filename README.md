@@ -1,8 +1,11 @@
 # cx-ai
 
 ### 介绍
-畅享Ai是由Springboot集成openAi SDK开发的一套智能AI知识库，支持GPT对话，AI绘图Midjourney、Stable
-Diffusion、openai，支持商用。欢迎进群讨论：QQ群：901402477。
+畅享Ai是由Springboot集成openAi SDK开发的一套智能AI知识库，支持GPT对话，无需科学上网，国内也可以用的中文 GPT。目前已经对接国内主流大模型，
+文心、讯飞、智普等AI通道，文案创作，论文写作，文章优化，SEO 文章，公文写作辅助。AI绘图Midjourney、Stable
+Diffusion。支持商用，欢迎进群讨论：QQ群：901402477。
+
+* pc端
 
 [![pc-draw.md.png](https://z4a.net/images/2023/12/18/pc-draw.md.png)](https://z4a.net/image/jWMGfE)
 
@@ -12,6 +15,7 @@ Diffusion、openai，支持商用。欢迎进群讨论：QQ群：901402477。
 
 [![pc-grally.md.png](https://z4a.net/images/2023/12/18/pc-grally.md.png)](https://z4a.net/image/jWM5LA)
 
+* 小程序
 
 [![h5-first-page.png](https://z4a.net/images/2023/12/18/h5-first-page.png)](https://z4a.net/image/jWMRWJ)
 
@@ -19,17 +23,24 @@ Diffusion、openai，支持商用。欢迎进群讨论：QQ群：901402477。
 
 [![h5-skills.png](https://z4a.net/images/2023/12/18/h5-skills.png)](https://z4a.net/image/jWM3tf)
 
+* 管理端
+
+[![manager-first-page.md.png](https://z4a.net/images/2023/12/18/manager-first-page.md.png)](https://z4a.net/image/jW8vp6)
 
 [![manager.md.png](https://z4a.net/images/2023/12/18/manager.md.png)](https://z4a.net/image/jWMvgU)
+
+[![manager-ai-work.md.png](https://z4a.net/images/2023/12/18/manager-ai-work.md.png)](https://z4a.net/image/jW8GAC)
+
+[![manager-ai-skill.md.png](https://z4a.net/images/2023/12/18/manager-ai-skill.md.png)](https://z4a.net/image/jW8Z1w)
 
 
 
 ### 演示中心
 
-H5（移动端、pc端）：http://cx.wiyitools.com
-
 小程序：
 ![miniProgram.png](https://qiniu.wiyitools.com/image/20231011/c2a9d04a-d34f-479a-8948-4398709989f1.jpg)
+
+H5（移动端、pc端）：http://cx.wiyitools.com
 
 管理后台演示：http://cx-admin.wiyitools.com/
 <br/>账号/密码：player/111111
@@ -97,5 +108,8 @@ H5（移动端、pc端）：http://cx.wiyitools.com
 
 ### 讨论群/联系方式
 
- * QQ群：901402477
+ * QQ群：<br/>[![qqGroup.th.jpg](https://z4a.net/images/2023/12/18/qqGroup.th.jpg)](https://z4a.net/image/jWMCW2)
+ <br/>
+ <br/>
+ * 微信群：<br/>[![wechatQrCode.th.jpg](https://z4a.net/images/2023/12/18/wechatQrCode.th.jpg)](https://z4a.net/image/jW8nRU)
 
